@@ -4,6 +4,13 @@
 # PyVM
 **PyVM** is a runtime project I built with python to run a custom assembly syntax, it acts basically like JVM, 
 [Check it out](https://github.com/unknown989/PyVM/)
+
+# How to run
+```ps
+g++ -std=c++17 main.cpp -o avx
+./avx file.avx
+```
+
 # Features
 (Honestly nothing)
 - Variable declaration
